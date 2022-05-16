@@ -1,0 +1,7 @@
+HourlyData.sensors				type:FT_POINTER
+HourlyData.events				type:FT_POINTER
+HourlyData.readings.values			type:FT_POINTER
+HourlyData.SensorBoard.channels			type:FT_POINTER
+HourlyData.SensorBoard.internalTemps		type:FT_POINTER
+HourlyData.EnvironmentalBoard.rain		type:FT_POINTER
+HourlyData.SystemEvents.details			type:FT_POINTER
